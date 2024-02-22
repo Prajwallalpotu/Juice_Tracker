@@ -1,21 +1,11 @@
 Juice Tracker app
 ==================================
+<img width="1710" alt="Screenshot 2024-02-22 at 8 33 44 PM" src="https://github.com/Prajwallalpotu/Juice_Tracker/assets/100768659/b1ae9789-26be-4ad1-b39c-6277bd593cf5">
+<img width="1710" alt="Screenshot 2024-02-22 at 8 35 02 PM" src="https://github.com/Prajwallalpotu/Juice_Tracker/assets/100768659/c0d8d49a-ae41-4691-a904-b9b6a2e5057c">
+<img width="1710" alt="Screenshot 2024-02-22 at 8 35 07 PM" src="https://github.com/Prajwallalpotu/Juice_Tracker/assets/100768659/fc0fe05f-324c-4a40-96eb-3352d26e2acc">
 
-Code for Android Basics with Compose Juice Tracker app.
 
-Pre-requisites
---------------
 
-You need to know:
-- How to create a new project in Android Studio.
-- How to use architecture components including ViewModel.
-- How to use Room with StateFlow.
 
-Getting Started
----------------
 
-1. [Install Android Studio](https://developer.android.com/studio/install.html), if you don't already
-   have it.
-2. Download the app.
-3. Import the app into Android Studio.
-4. Build and run the app.
+
